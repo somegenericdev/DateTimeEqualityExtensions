@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>DateTimeEqualityExtensions</RootNamespace>
+    </PropertyGroup>
+
+
+    <PropertyGroup>
+        <Description>Equality APIs for nullable DateTimes that don't suck</Description>
+        <PackageTags>DateTime;Nullable;Equality;</PackageTags>
+        <PackageId>DateTimeEqualityExtensions</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>somegenericdev</Authors>
+        <Company>somegenericdev</Company>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryUrl>https://github.com/somegenericdev/DateTimeEqualityExtensions.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+    
+    
+</Project>
