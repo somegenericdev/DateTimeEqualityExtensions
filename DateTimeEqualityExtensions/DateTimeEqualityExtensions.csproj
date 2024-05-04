@@ -20,6 +20,9 @@
         <RepositoryUrl>https://github.com/somegenericdev/DateTimeEqualityExtensions.git</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
     </PropertyGroup>
+    <ItemGroup>
+        <None Include="..\README.md" Pack="true" PackagePath=""/>
+    </ItemGroup>
     
     
 </Project>
