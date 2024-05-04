@@ -1,5 +1,7 @@
 # DateTimeEqualityExtensions
 
+[![Get me on](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/packages/DateTimeEqualityExtensions)
+
 Equality APIs for nullable DateTimes that don't suck donkey ass.
 
 # Why
